@@ -6,6 +6,11 @@
 
 > This dataset consists of loan listings, borroers, lenders, borrowers rate, borrowers income e.t.c from the loan comapany Prosper Marketplace Inc. which was the first peer-to-peer lending marketplace in the United States established in 2005. Prosper ha s facilitated over 21 billon loans to over 1.3 millon people.This data set contains 113,937 loans with 81 variables on each loan, The data set was gotten from the udacity server.
 
+### Python Libraries used:
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
 
 ## Summary of Findings
 
